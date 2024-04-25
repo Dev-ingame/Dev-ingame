@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kenny Rey Licong(KenKEn)(Devingame)</h1>
+<h1 align="center">Hi 👋, I'm Kenny Rey Licong</h1>
 <h3 align="center">A software developer from PHILLIPINES! YOHO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ingame&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ingame" /> </p>

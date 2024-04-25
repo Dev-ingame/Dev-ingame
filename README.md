@@ -19,8 +19,8 @@
 <p align="left">
 <a href="https://dev.to/devingame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devingame" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kuyak-gaming-7b74732bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuyak-gaming-7b74732bb" height="30" width="40" /></a>
-<a href="https://fb.com/kenny licong (dev)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kenny licong (dev)" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dev-ingame3120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dev-ingame3120" height="30" width="40" /></a>
+<a href="https://fb.com/licong.rey)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kenny licong (dev)" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@dev-ingame3120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dev-ingame3120" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

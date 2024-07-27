@@ -4,13 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ingame&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ingame" /> </p>
 
-
-- 🔭 I’m currently working on **Random As* System**
-
-- 🌱 I’m currently learning **front End Webdevelopment**
-
-- 👯 I’m looking to collaborate on **my self yes**
-
 - 💬 Ask me about **Javascript, C++, Java**
 
 - 📫 How to reach me **kennylicong9@gmail.com**

@@ -1,5 +1,5 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-ingame&bg_color=000000&color=9e4c98&line=f99af3&point=f97ba1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<h1 align="center">Hi 👋, I'm Kenny Rey Licong</h1>
+<h1 align="center">Hi 👋, I'm KenKEn</h1>
 <h3 align="center">A software developer from PHILLIPINES! YOHO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ingame&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ingame" /> </p>

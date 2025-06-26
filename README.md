@@ -1,10 +1,10 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-ingame&bg_color=000000&color=9e4c98&line=f99af3&point=f97ba1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Dev-ingame&theme=react-dark)
 <h1 align="center">Hi 👋, I'm KenKEn</h1>
-<h3 align="center">A software developer from PHILLIPINES! YOHO</h3>
+<h3 align="center">A software developer from Philippines!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ingame&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ingame" /> </p>
 
-- 💬 Ask me about **Javascript, C++, Java**
+- 💬 Ask me about **Javascript, C++, Java, etc**
 
 - 📫 How to reach me **kennylicong9@gmail.com**
 
@@ -17,12 +17,13 @@
 </p>
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/devingame"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devingame" /></a></p><br><br>
+<h3 align="left">Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-ingame&show_icons=true&locale=en" alt="dev-ingame" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ingame&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=dev-ingame&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ingame&theme=tokyonight" alt="Streak Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ingame&" alt="dev-ingame" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-ingame&theme=darkhub" alt="dev-ingame" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ingame&show_icons=true&locale=en&layout=compact" alt="dev-ingame" /></p>
+
 
